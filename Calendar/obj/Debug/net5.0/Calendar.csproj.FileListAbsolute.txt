@@ -1,0 +1,12 @@
+/Users/cchap14/Desktop/epicodus-jan/c#/Calendar.Solution/Calendar/obj/Debug/net5.0/Calendar.csprojAssemblyReference.cache
+/Users/cchap14/Desktop/epicodus-jan/c#/Calendar.Solution/Calendar/obj/Debug/net5.0/Calendar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cchap14/Desktop/epicodus-jan/c#/Calendar.Solution/Calendar/obj/Debug/net5.0/Calendar.AssemblyInfoInputs.cache
+/Users/cchap14/Desktop/epicodus-jan/c#/Calendar.Solution/Calendar/obj/Debug/net5.0/Calendar.AssemblyInfo.cs
+/Users/cchap14/Desktop/epicodus-jan/c#/Calendar.Solution/Calendar/obj/Debug/net5.0/Calendar.csproj.CoreCompileInputs.cache
+/Users/cchap14/Desktop/epicodus-jan/c#/Calendar.Solution/Calendar/bin/Debug/net5.0/Calendar.deps.json
+/Users/cchap14/Desktop/epicodus-jan/c#/Calendar.Solution/Calendar/bin/Debug/net5.0/Calendar.dll
+/Users/cchap14/Desktop/epicodus-jan/c#/Calendar.Solution/Calendar/bin/Debug/net5.0/ref/Calendar.dll
+/Users/cchap14/Desktop/epicodus-jan/c#/Calendar.Solution/Calendar/bin/Debug/net5.0/Calendar.pdb
+/Users/cchap14/Desktop/epicodus-jan/c#/Calendar.Solution/Calendar/obj/Debug/net5.0/Calendar.dll
+/Users/cchap14/Desktop/epicodus-jan/c#/Calendar.Solution/Calendar/obj/Debug/net5.0/ref/Calendar.dll
+/Users/cchap14/Desktop/epicodus-jan/c#/Calendar.Solution/Calendar/obj/Debug/net5.0/Calendar.pdb
